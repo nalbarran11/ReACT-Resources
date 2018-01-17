@@ -7,7 +7,7 @@ int const MA = 4;                    // length of moving average (samples)
 int const PEAKCOUNTING = 1;         // are we counting steps?
 //int const DISPLAYING = 0;           // are we sending to display?
 
-// uncomment 45 if you are using display
+
 //int const DISPLAYING = 1;           // are we sending to display?
 float const PEAKTHRESHOLD = 90;   // threshold for step (g)
 int const MINIMUMPEAKTIME = 5000;    // minimum time between steps (ms)
