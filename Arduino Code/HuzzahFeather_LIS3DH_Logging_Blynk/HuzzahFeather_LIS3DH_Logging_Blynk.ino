@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char ssid[] = "HTU-test";
-char password[] = "123456789";
+char ssid[] = "WIFI NAME";
+char password[] = "WIFI PW";
 
 //SD+RTC Libraries
 #include <SD.h>
